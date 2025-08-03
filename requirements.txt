@@ -7,3 +7,5 @@ certifi
 scikit-learn
 pymongo
 ## -e .
+dill
+pyaml
